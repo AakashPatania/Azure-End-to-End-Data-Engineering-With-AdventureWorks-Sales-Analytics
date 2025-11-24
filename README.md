@@ -59,6 +59,25 @@ Power BI
 
 Adventure Works Dataset (Github)
 
+
+### AZURE DATA FACTORY
+
+<img width="915" height="466" alt="Screenshot 2025-11-25 at 00 52 55" src="https://github.com/user-attachments/assets/bc3be2ce-9d01-4129-8212-9f5e6cb53281" />
+
+### AZURE DATA LAKE 
+
+<img width="1249" height="425" alt="Screenshot 2025-11-25 at 00 53 57" src="https://github.com/user-attachments/assets/14052ce3-8f70-4812-8a2c-e2daf87b8856" />
+
+### AZURE DATABRICKS
+
+<img width="1243" height="591" alt="Screenshot 2025-11-25 at 01 08 50" src="https://github.com/user-attachments/assets/256bc722-f990-4e97-adff-9979966adee2" />
+
+<img width="1222" height="577" alt="Screenshot 2025-11-25 at 01 09 20" src="https://github.com/user-attachments/assets/6a5a1ab1-602b-4f1d-b530-90c74fcdc4f6" />
+
+### AZURE SYNAPSE ANALYTICS
+
+<img width="1184" height="423" alt="Screenshot 2025-11-25 at 00 55 25" src="https://github.com/user-attachments/assets/a9552487-a227-4876-9521-cd4c2133a868" />
+
 ## **FINAL OUTPUT**
 
 Interactive Power BI dashboards showcasing:

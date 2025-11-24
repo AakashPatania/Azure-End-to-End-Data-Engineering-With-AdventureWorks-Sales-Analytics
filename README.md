@@ -1,4 +1,4 @@
-**PROJECT OVERVIEW**
+# **PROJECT OVERVIEW**
 
 This project demonstrates a fully functional end-to-end Azure data engineering pipeline using the Adventure Works dataset. The solution follows a modern Lakehouse architecture and includes data ingestion, raw and transformed data storage, ETL processing, data warehousing, and business intelligence reporting.
 
@@ -58,6 +58,11 @@ Top customers and regions
 Product performance by category and subcategory
 
 Time-based seasonality insights
+
+
+**CONCLUSION**
+
+This project reflects real-world enterprise data engineering practices, showcasing a complete analytical pipeline from data extraction to reporting, built entirely with the Microsoft Azure ecosystem.
 
 
 

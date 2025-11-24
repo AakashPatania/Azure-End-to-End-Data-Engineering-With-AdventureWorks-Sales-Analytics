@@ -5,7 +5,7 @@ This project demonstrates a fully functional end-to-end Azure data engineering p
 The goal of this project is to convert raw enterprise data into meaningful business insights related to sales performance, customers, product categories, territories, and calendar trends.
 
 
-**DATA MODEL**
+## **DATA MODEL**
  
 The dataset includes the following entities:
 
